@@ -8,6 +8,7 @@
         "register": {
             "name": "Your name",
             "email": "Your email"
-        }
+        }, 
+        "another": "another test of webhook"
     }
 }
