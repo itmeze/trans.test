@@ -4,6 +4,9 @@
         "login": {
             "username": "Please,provide your username/emial in field below",
             "password": "Please, provide your password in field below"
+        },
+        "register": {
+            "name": "Your name"
         }
     }
 }
