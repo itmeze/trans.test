@@ -6,7 +6,8 @@
             "password": "Please, provide your password in field below"
         },
         "register": {
-            "name": "Your name"
+            "name": "Your name",
+            "email": "Your email"
         }
     }
 }
