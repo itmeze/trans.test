@@ -1,9 +1,9 @@
 {
-  "site": {
-    "name": "test",
-    "login": {
-      "username": "Enter your username",
-      "password": "Enter your password"
+    "site": {
+        "name": "Just a test",
+        "login": {
+            "username": "Please,provide your username/emial in field below",
+            "password": "Please, provide your password in field below"
+        }
     }
-  }
 }
