@@ -2,7 +2,7 @@
   "site": {
     "name": "test",
     "login": {
-      "username": "Enter your username"
+      "username": "Enter your username",
       "password": "Enter your password"
     }
   }
